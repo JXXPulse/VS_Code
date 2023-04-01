@@ -9,4 +9,4 @@
                             \_/      \_/
 
 ```
-![Github stars](https://img.shields.io/github/stars/catchcodes/VS_Code.svg)
+![Github stars](https://img.shields.io/github/stars/JXXPulse/VS_Code.svg)
