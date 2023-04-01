@@ -1,3 +1,12 @@
-# VS_Code
-练习使用
-里面会存放一些和机器学习相关的代码
+## VS code 使用
+```
+
+                 ____.____  _______  ___
+                |    |\   \/  /\   \/  /
+                |    | \     /  \     / 
+            /\__|    | /     \  /     \ 
+            \________|/___/\  \/___/\  \
+                            \_/      \_/
+
+```
+![Github stars](https://img.shields.io/github/stars/catchcodes/VS_Code.svg)
